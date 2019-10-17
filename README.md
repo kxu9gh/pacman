@@ -6,11 +6,11 @@ In this project, Pacman agent will find paths through his maze world, both to re
 https://inst.eecs.berkeley.edu/~cs188/su19/project1/
 
 ## Multi-Agent Search
-In this project, I designed agents for the classic version of Pacman, including ghosts. Along the way, I implemented both minimax and expectimax search and try your hand at evaluation function design.
+In this project, I designed agents for the classic version of Pacman, including ghosts. Along the way, I implemented both minimax and expectimax search and design evaluation function.
 https://inst.eecs.berkeley.edu/~cs188/su19/project2/
 
 ## Reinforcement Learning
-In this project, I implemented value iteration and Q-learning. I tested your agents first on Gridworld (from class), then apply them to a simulated robot controller (Crawler) and Pacman.
+In this project, I implemented value iteration and Q-learning. I tested my agents first on Gridworld (from class), then apply them to a simulated robot controller (Crawler) and Pacman.
 https://inst.eecs.berkeley.edu/~cs188/su19/project3/
 
 ## Ghostbusters(tracking)
